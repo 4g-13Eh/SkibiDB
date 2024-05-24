@@ -2,6 +2,10 @@
 
 A windows-only, secure, lightweight, and fast Database Management System written in C++
 
+<p align="center">
+  <img width="460" height="300" src="https://static.wikia.nocookie.net/fcoc-vs-battles/images/f/fc/Skibidi-toilet.gif/revision/latest/scale-to-width-down/165?cb=20240401150600" />
+</p>
+
 ## Libraries
 
 - [nlohmann/json](https://github.com/nlohmann/json)
@@ -78,6 +82,3 @@ The only supported function as of now, is `COUNT`.
 - [4g-13Eh](https://github.com/4g-13Eh)
 - [FischerNils06](https://github.com/FischerNils06)
 
-## Easteregg
-
-[https://youtu.be/pEBFJI-g9AA](https://youtu.be/pEBFJI-g9AA) (Not Rick-Roll)
